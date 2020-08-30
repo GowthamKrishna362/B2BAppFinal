@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocalB2BApp</string>
+    <string-array name="crop_names">
+        <item> Choose Crop</item>
+        <item> Rice</item>
+        <item> Wheat</item>
+    </string-array>
+
+</resources>
